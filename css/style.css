@@ -5,3 +5,8 @@
 .p1{
     text-align: justify;
 }
+
+.tabla, tr, th, td{
+    border: 1px solid;
+}
+
